@@ -31,7 +31,9 @@ git clone https://github.com/vianneydrapeau-del/pocsag-app.git
 cd pocsag-app
 
 2️⃣ Lancer l’installation
+chmod +x install.sh
 sudo ./install.sh
+
 
 
 ⏳ L’installation prend 1–2 minutes.
